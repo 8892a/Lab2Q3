@@ -1,3 +1,3 @@
 # Lab2Q3
 
-Lab
+Lab 3
